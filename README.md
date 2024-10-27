@@ -5,7 +5,7 @@
   <I>"Optimizing All India Road Transport Network (RTN) using AI, geofencing, dynamic routing, and GIS technology."</I>
 </h4>
 
-## Key Features : 
+## Key Features :  
 
 ⦿ **Capacity Sharing** 🚚💻 : AI-powered matching of truck capacity with 3PL requests
 <br>
